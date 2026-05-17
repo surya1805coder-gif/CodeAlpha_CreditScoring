@@ -30,4 +30,4 @@ Build a binary classification model to predict creditworthiness using the German
 - Dummy baseline for comparison
 
 ## Author
-CodeAlpha ML Intern
+Jaya Surya --ML Intern 
